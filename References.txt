@@ -1,0 +1,16 @@
+ UID# type	    put/get	variables'initUsers'   Preferences
+-------------------------------------------------------------------------------------
+Lave_linge_federes.ino	(et SAMPLE_Keypad.ino),
+1  char      putString	Utilisateur[i].nom     "Stu%dNm"	(29 chars + '\0')=[MAXNAME]
+2  uint32_t  putUInt	Utilisateur[i].uID     "Stu%dUID"	HEX ID RFID
+3  uint8_t   putUInt	Utilisateur[i].rights  "Stu%dEx"	(6ème bit) 1=write protected
+4								(7ème bit) 1=enabled 
+5 				       	          	        (8ème bit) 1=admin
+6  int       putInt	Utilisateur[i].nbUtils "Stu%dnbU"	nombre utilisations
+7  int       putInt	Utilisateur[i].credit  "Stu%dCre"	credits restants
+-------------------------------------------------------------------------------------
+SAMPLE_Keypad.ino,
+8  char      putString	Utilisateur[i].pwd     "Stu%dPWD"	4 char passcode
+9  int	     putInt	Utilisateur[i].status  "Stu%dSta"	status (143 is Master)
+10 uint8_t   putUInt			       "higherTag"	max number of badges
+-------------------------------------------------------------------------------------
