@@ -39,7 +39,7 @@ Electrical equipment should be installed, operated, serviced, and maintained onl
 No responsibility is assumed by the writer and co-writers for any consequences arising out of the use of this project and equipment.
 A qualified person is one who has skills and knowledge related to the construction, installation, and operation of electrical equipment and has received safety training to recognize and avoid the hazards involved.
 
-If you are 18 or else, you cannot follow the instructions of this repository as it may include a high risk of electrical shock.
+If you are 18 or less, you cannot follow the instructions of this repository as it may include a high risk of electrical shock.
 
 -------------------------------------------------------------------------------------------------------
 EXONERATION DE RESPONSABILITES (FR)
