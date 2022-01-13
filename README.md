@@ -39,10 +39,12 @@ Electrical equipment should be installed, operated, serviced, and maintained onl
 No responsibility is assumed by the writer and co-writers for any consequences arising out of the use of this project and equipment.
 A qualified person is one who has skills and knowledge related to the construction, installation, and operation of electrical equipment and has received safety training to recognize and avoid the hazards involved.
 
-If you are 18 or else, you cannot follow the instructions of this repository.
+If you are 18 or else, you cannot follow the instructions of this repository as it may include a high risk of electrical shock.
+
 -------------------------------------------------------------------------------------------------------
 EXONERATION DE RESPONSABILITES (FR)
 L’installation, l’utilisation, la réparation et la maintenance des équipements électriques doivent être assurées par du personnel qualifié uniquement.
 L'auteur et ses co-auteurs déclinent toute responsabilité quant aux conséquences de l’utilisation de cet appareil.
 Une personne qualifiée est une personne disposant de compétences et de connaissances dans le domaine de la construction, de l’installation et du fonctionnement des équipements électriques et ayant suivi une formation sur la sécurité lui permettant d’identifier et d’éviter les risques encourus.
+
 -------------------------------------------------------------------------------------------------------
