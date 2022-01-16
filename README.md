@@ -1,6 +1,6 @@
 # Free-Laundry-Manager
 ----------------------
-######ENG
+###### ENG
 This is a Management and access control system for laundry equipment in small apartment-buildings and shared-flats.
 The aim of this repo is to develop a control and management system for a shared small-size laundry of one washing machine, and one dryer.
 With this system, landlords and co-owners can provide fair and monitored access to a set of normal home appliances.
@@ -8,7 +8,7 @@ This system is not for commercial use, and as such does not provide any warranty
 **The philosophy of this project is to improve the life of tenants by providing an optimized sharing of available resources like laundry equipment.**
 See it as a laundry-pooling solution! ;)
 
-######FR
+###### FR
 Free-Laundry-Manager est un système de contrôle et de gestion pour petites buanderies d'immeubles locatifs ou de copropriétés.
 L'objectif de ce Repo est de développer un  système capable de contrôler une petite structure constituée d'une lave-linge et d'un sèche-linge.
 Avec ce dispositif, un propriétaire bailleur, ou les membres d'une colocation peuvent organiser et assurer le partage équitable d'équipements standards.
@@ -16,7 +16,7 @@ Ce système n'est pas destiné à un usage professionnel, et ne constitue donc a
 **La philosophie de ce projet est d'améliorer la vie des locataires, en leur fournissant un accès optimisé et équitable à des équipements partagés de lingerie.**
 Voyez-le comme un covoiturage de la lingerie ! ;)
 
-##Project main-features / fonctions principales :
+## Project main-features / fonctions principales :
 ----------------------------------------------
 *-ESP32 based,
 * /basé sur un ESP32,
@@ -31,12 +31,12 @@ Voyez-le comme un covoiturage de la lingerie ! ;)
 *-local basic management via system LCD and keypad,
 * /gestion locale par écran et clavier.
 
-##Planned features / fonctions prévues:
+## Planned features / fonctions prévues:
 -------------------------------------
 -SD card logs and backups,
  /logs et sauvegardes sur carte SD.
 
-##CREDITS / REMERCIEMENTS:
+## CREDITS / REMERCIEMENTS:
 -----------------------
 ENG
 This project is based on the original work of yohann74 and lesept, and is visible at https://forum.arduino.cc/t/gerer-un-lave-linge-en-co-propriete/630697 .
@@ -55,7 +55,7 @@ Le fil de ce projet est à https://forum.arduino.cc/t/gerer-un-lave-linge-en-co-
 Venez nombreux nous rejoindre et contribuer !
  
 -------------------------------------------------------------------------------------------------------
-##!!SPOILER ALERT!! ...the disclaimer! (ENG)
+## !!SPOILER ALERT!! ...the disclaimer! (ENG)
 -------------------------------------------------------------------------------------------------------
 **DANGER!! The realisation of this project involves the cabling and routing of mains power high-voltages.
 Electrical equipment should be installed, operated, serviced, and maintained only by qualified personnel.
