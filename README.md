@@ -18,7 +18,7 @@ Voyez-le comme un covoiturage de la lingerie ! ;)
 
 ## Project main-features / fonctions principales :
 ----------------------------------------------
-*-ESP32 based,
+-ESP32 based,
 * /basé sur un ESP32,
 *-washing machine + dryer (requires external relays and power relays),
 * /lave-linge + sèche-linge (nécessite des relais externes et des relais de puissance),
