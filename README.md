@@ -38,7 +38,7 @@ Voyez-le comme un covoiturage de la lingerie ! ;)
 
 ## CREDITS / REMERCIEMENTS:
 -----------------------
-ENG  
+###### ENG  
 This project is based on the original work of yohann74 and lesept, and is visible at https://forum.arduino.cc/t/gerer-un-lave-linge-en-co-propriete/630697 .
 It's main contributors are hbachetti (http://riton-duino.blogspot.com/), J-M-L Jackson, Artouste, fdufnews, and all the great Arduino.cc community.  
   
@@ -46,7 +46,7 @@ Great thanks to all of them for their continued support on this new/follow-up pr
 This project live discussion is at https://forum.arduino.cc/t/gerer-un-lave-linge-en-co-propriete-realisation-du-parfait-noob/908070/1 .  
 Don't hesitate to join and contribute!
 
-FR  
+###### FR  
 Ce projet est basé sur le travail original de yohann74 et lesept, et est visible à https://forum.arduino.cc/t/gerer-un-lave-linge-en-co-propriete/630697 .  
 Ses principaux contributeurs sont hbachetti (http://riton-duino.blogspot.com/), J-M-L Jackson, Artouste, fdufnews, et la communauté Arduino.cc .  
   
