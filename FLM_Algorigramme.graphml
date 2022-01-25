@@ -299,7 +299,7 @@ True
           <data key="d6">
             <y:ShapeNode>
               <y:Geometry height="64.39999999999998" width="102.0" x="1058.219586547932" y="230.19236906115674"/>
-              <y:Fill color="#FF99CC" transparent="false"/>
+              <y:Fill color="#FF0000" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.025390625" x="22.9873046875" xml:space="preserve" y="0.7976562499999886">is
 four digits
@@ -777,7 +777,7 @@ successRead=GetID false/true
           <data key="d6">
             <y:ShapeNode>
               <y:Geometry height="52.5" width="150.0" x="1035.6345315005537" y="1233.5624686532365"/>
-              <y:Fill color="#FF99CC" transparent="false"/>
+              <y:Fill color="#FF0000" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.728515625" x="19.6357421875" xml:space="preserve" y="2.1982421875">is
 successRead==true
@@ -2128,7 +2128,7 @@ You have 10 sec. to cancel!"<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/
               <data key="d6">
                 <y:ShapeNode>
                   <y:Geometry height="66.79999999999995" width="87.59999999999991" x="827.2195865479325" y="313.57601719224533"/>
-                  <y:Fill color="#FF99CC" transparent="false"/>
+                  <y:Fill color="#FF0000" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.33984375" x="16.130078124999955" xml:space="preserve" y="1.9976562499999773">is
 timer less
@@ -2994,6 +2994,17 @@ rights = Stu%dEx<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
           </data>
         </node>
       </graph>
+    </node>
+    <node id="n23">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="82.0" x="279.01958654793236" y="453.84620587149084"/>
+          <y:Fill color="#FF0000" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.013671875" x="21.9931640625" xml:space="preserve" y="5.6494140625">while !<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="diamond"/>
+        </y:ShapeNode>
+      </data>
     </node>
     <edge id="n1::e0" source="n1::n1" target="n1::n0">
       <data key="d10">
